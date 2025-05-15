@@ -27,3 +27,13 @@
 </p>
 
 ---
+<p align="center">
+  <a href="https://www.linkedin.com/in/bere-kanters-5" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://discordapp.com/users/18397935023" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</p>
+
+
