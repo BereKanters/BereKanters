@@ -1,5 +1,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BereKanters&layout=compact&theme=dracula&langs_count=10)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=BereKanters&theme=dracula&hide_border=true)
+
 <!--
 **BereKanters/BereKanters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
