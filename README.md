@@ -1,21 +1,29 @@
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BereKanters&layout=compact&theme=dracula&langs_count=10)
+---
 
-![Stats](https://github-readme-stats.vercel.app/api?username=BereKanters&show_icons=true&theme=dracula)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=BereKanters&theme=dracula&hide_border=true)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=BereKanters&show_icons=true&theme=dracula" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=BereKanters&theme=dracula&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=BereKanters&theme=dracula)
-<!--
-**BereKanters/BereKanters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BereKanters&layout=compact&theme=dracula&langs_count=10" alt="Top Languages" />
+</p>
+
+---
+
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BereKanters&theme=dracula&margin-w=10&no-frame=true" alt="GitHub Trophies" />
+</p>
+
+---
