@@ -26,9 +26,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=BereKanters&theme=dracula&margin-w=10&no-frame=true" alt="GitHub Trophies" />
 </p>
 
+
 ---
 <p align="center">
-  <a href="https://www.linkedin.com/in/bere-kanters-5" target="_blank">
+  <a href="https://www.linkedin.com/in/bere-kanters-5018371a4/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://discordapp.com/users/18397935023" target="_blank">
