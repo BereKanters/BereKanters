@@ -26,6 +26,12 @@
   <img src="./metrics.plugin.isocalendar.fullyear.svg" alt="Isometric Calendar"/>
 </p>
 
+<h3 align="center">🎮 Recent Steam Activity</h3>
+<p align="center">
+  <img src="./metrics.plugin.steam.svg" alt="Steam stats"/>
+</p>
+
+
 ---
 
 <p align="center">
