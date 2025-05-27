@@ -21,6 +21,10 @@
 
 ---
 
+### My GitHub Activity Calendar
+![Isometric Calendar](./metrics.plugin.isocalendar.fullyear.svg)
+
+---
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=BereKanters&theme=dracula&margin-w=10&no-frame=true" alt="GitHub Trophies" />
