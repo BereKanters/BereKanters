@@ -26,6 +26,21 @@
   <img src="https://github-profile-trophy.vercel.app/?username=BereKanters&theme=dracula&margin-w=10&no-frame=true" alt="GitHub Trophies" />
 </p>
 
+---
+
+<h2 align="center">Tools I Have Used and Learned</h2>
+<p align="center">
+<img src="assets/icons/kotlin.svg" alt="Kotlin" width="45" height="45"/>
+  <img src="assets/icons/php.svg" alt="PHP" width="45" height="45"/>
+  <img src="assets/icons/javascript.svg" alt="JavaScript" width="45" height="45"/>
+  <img src="assets/icons/css3.svg" alt="CSS3" width="45" height="45"/>
+  <img src="assets/icons/symfony.svg" alt="Symfony" width="45" height="45"/>
+  <img src="assets/icons/primevue.svg" alt="PrimeVue" width="45" height="45"/>
+  <img src="assets/icons/tailwindcss.svg" alt="Tailwind CSS" width="45" height="45"/>
+  <img src="assets/icons/bootstrap.svg" alt="Bootstrap" width="45" height="45"/>
+
+</p>
+
 
 ---
 <p align="center">
