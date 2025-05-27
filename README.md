@@ -21,8 +21,10 @@
 
 ---
 
-### My GitHub Activity Calendar
-![Isometric Calendar](./metrics.plugin.isocalendar.fullyear.svg)
+<h3 align="center">My GitHub Activity Calendar</h3>
+<p align="center">
+  <img src="./metrics.plugin.isocalendar.fullyear.svg" alt="Isometric Calendar"/>
+</p>
 
 ---
 
